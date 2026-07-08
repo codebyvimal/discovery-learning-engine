@@ -70,7 +70,11 @@ If `plan.md` doesn't exist, run this interview before writing anything:
 5. Target difficulty / pace?
 6. Any stated goals (e.g., interview prep)?
 
-*Action: Collaboratively draft the full walls → inventions sequence, allow user pushback, write final `plan.md`, and initialize `progress.md` to `DISCOVER` state.*
+*Action: Collaboratively draft the full walls → inventions sequence. **CRITICAL: Ensure the curriculum is highly exhaustive and covers all topics in depth (e.g., for DSA, this MUST include Dynamic Programming, Greedy Algorithms, Advanced Graphs, Tries, Backtracking, String Algorithms, etc.). Do not over-compress or group too many algorithms into a single concept. List every major algorithm and data structure as its own distinct wall-invention pair.** Allow user pushback, write final `plan.md`, and initialize `progress.md` to `DISCOVER` state.
+
+**IMPORTANT: When writing `plan.md`, you MUST append two separate sections at the bottom:**
+1. **Included Topics & Rationale**: Differentiate and list the items from the user's provided syllabus that were included, and explicitly state *why* they were included (e.g., how they fit the wall/invention framework).
+2. **Omitted Topics & Rationale**: Deliberately list any specific topics from the user's provided syllabus that were skipped, omitted, or not considered as distinct concepts, along with the exact reason *why* (e.g., too trivial, grouped elsewhere, or out of scope).*
 
 ## File Templates
 
